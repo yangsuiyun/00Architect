@@ -3,7 +3,7 @@
 ## Dailly development work flow
 * Before coding, each developer should fork the centrol repo.
 * Developer suggested to create one branch for each new feature and push to his own forked repo.
-* After coding, developer execute git command 'git fetch /origin/master; git rebase origin master'
+* After coding, developer execute git command 'git fetch origin; git rebase origin/master'
 * Developer should write the commit comments as follows.
 * Developer should create a pull request of the new feature, and label the PR 'Code review'.
 * There should be another developer to revew this the pull request. If something wrong is found, label the PR 'Code review fix'; If everythin is fine, label the PR 'ship it'.
