@@ -1,2 +1,2 @@
 # ITDevelopBestPratice
-This repo used to summary best practice for IT project collaboration.
+This repo used to summary IT book note.
