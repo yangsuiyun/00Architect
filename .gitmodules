@@ -1,0 +1,4 @@
+[submodule "springboot-ddd-demo"]
+	path = springboot-ddd-demo
+	url = https://github.com/SuiyunCloud/springboot-ddd-demo
+	branch = cola
